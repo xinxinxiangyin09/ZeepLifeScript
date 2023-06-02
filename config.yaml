@@ -1,0 +1,22 @@
+user_info:
+  username:
+  password:
+
+step:
+  minimum_steps: 26800
+  max_steps: 29000
+  steps: 8
+
+db_redis:
+  host: 127.0.0.1
+  port: 12308
+  password: 0
+  db: 0
+
+db_mysql:
+  host: 127.0.0.1
+  port: 12306
+  user: root
+  password: 0
+  database: zeep_life
+  charset: utf8mb4
